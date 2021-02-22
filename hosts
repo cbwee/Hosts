@@ -235,3 +235,9 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 sugar.zhihu.com
+0.0.0.0 zhihu-web-analytics.zhihu.com
+0.0.0.0 s-v6exp1-ds.metric.gstatic.com
+0.0.0.0 telemetry.dailymotion.com
+0.0.0.0 pebed.dm-event.net
+0.0.0.0 dmxleo.dailymotion.com
