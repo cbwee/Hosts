@@ -48,13 +48,18 @@
 0.0.0.0 c2.taboola.com
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 capture.condenastdigital.com
+0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.aralego.net
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.doublemax.net
+0.0.0.0 cdn.download.sweetpacks.com
 0.0.0.0 cdn.innity.net
+0.0.0.0 cdn.insta.playbryte.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdn.mediavoice.com
+0.0.0.0 cdn.msdwnld.com
+0.0.0.0 cdn.mypcbackup.com
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
@@ -146,7 +151,10 @@
 0.0.0.0 img.img-taboola.com
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 in.treasuredata.com
+0.0.0.0 inno.bisrv.com
 0.0.0.0 inrecsys.popin.cc
+0.0.0.0 installer.betterinstaller.com
+0.0.0.0 installer.filebulldog.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 js.driftt.com
 0.0.0.0 js.rfp.fout.jp
@@ -181,6 +189,7 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 notify.indianexpress.com
+0.0.0.0 nsis.bisrv.com
 0.0.0.0 nt.compass-fit.jp
 0.0.0.0 openx.net
 0.0.0.0 ovp.iris.tv
@@ -283,6 +292,7 @@
 0.0.0.0 tmatch.simba.taobao.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 track.mailerlite.com
+0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trustarc.mgr.consensu.org
