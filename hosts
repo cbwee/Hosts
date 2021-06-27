@@ -70,6 +70,7 @@
 0.0.0.0 cdn.siteswithcontent.com
 0.0.0.0 cdn.snigelweb.com
 0.0.0.0 cdn.taboola.com
+0.0.0.0 cdn.taboola.com.cn
 0.0.0.0 cdn.taboolasyndication.com
 0.0.0.0 cdn.wishpond.net
 0.0.0.0 cdn.ywxi.net
@@ -86,6 +87,7 @@
 0.0.0.0 cm.mgid.com
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.trustarc.com
@@ -237,6 +239,7 @@
 0.0.0.0 s7.addthis.com
 0.0.0.0 s95.cnzz.com
 0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 sc.lfeeder.com
 0.0.0.0 scout-cdn.salesloft.com
 0.0.0.0 sdk.privacy-center.org
@@ -270,6 +273,8 @@
 0.0.0.0 static.getclicky.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.mailerlite.com
+0.0.0.0 static.scroll.com
+0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.sa-as.com
@@ -288,6 +293,7 @@
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 target.microsoft.com
 0.0.0.0 tce.alicdn.com
 0.0.0.0 tcr.tynt.com
 0.0.0.0 telemetry.dailymotion.com
