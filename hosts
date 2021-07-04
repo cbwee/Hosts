@@ -15,6 +15,7 @@
 0.0.0.0 ads.ndtv1.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.revjet.com
+0.0.0.0 ads.servebom.com
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 ad-specs.guoshipartners.com
@@ -48,6 +49,7 @@
 0.0.0.0 c2.taboola.com
 0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 capture.condenastdigital.com
+0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.aralego.net
 0.0.0.0 cdn.concert.io
@@ -78,6 +80,7 @@
 0.0.0.0 cdn1.ettoday.net
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn-plus.roxot-panel.com
+0.0.0.0 cds.taboola.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
@@ -127,6 +130,7 @@
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geo.yahoo.com
+0.0.0.0 glitter.services.disqus.com
 0.0.0.0 gm.mmstat.com
 0.0.0.0 go.ezodn.com
 0.0.0.0 go.ezoic.net
@@ -283,6 +287,7 @@
 0.0.0.0 stun.services.mozilla.com
 0.0.0.0 sugar.zhihu.com
 0.0.0.0 s-v6exp1-ds.metric.gstatic.com
+0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync.getpublica.com
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 taboola.com
@@ -315,6 +320,7 @@
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 v-a1peiulhaa.wc.yahoodns.net
+0.0.0.0 vendorlist.consensu.org
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 visitor.omnitagjs.com
