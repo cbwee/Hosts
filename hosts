@@ -114,6 +114,7 @@
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 dianomi.com
 0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 dms-mcdn-report.wc.yahoodns.net
 0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dpm.demdex.net
@@ -131,6 +132,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fc.yahoo.com
 0.0.0.0 feed.engage.im
+0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 fls-na.amazon.com
@@ -148,6 +150,7 @@
 0.0.0.0 go.ezodn.com
 0.0.0.0 go.ezoic.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 google-analytics.com
 0.0.0.0 googletagservices.com
 0.0.0.0 gtrk.s3.amazonaws.com
@@ -295,12 +298,12 @@
 0.0.0.0 static.getclicky.com
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.mailerlite.com
+0.0.0.0 static.narrativ.com
 0.0.0.0 static.scroll.com
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.sa-as.com
-0.0.0.0 stats.wp.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stg.truvidplayer.com
 0.0.0.0 stun.services.mozilla.com
