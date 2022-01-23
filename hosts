@@ -1,3 +1,4 @@
+0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 15.taboola.com
 0.0.0.0 a.amnet.tw
 0.0.0.0 a.breaktime.com.tw
@@ -7,6 +8,7 @@
 0.0.0.0 a.teads.tv
 0.0.0.0 a.zdbb.net
 0.0.0.0 acdn.adnxs.com
+0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.setn.com
 0.0.0.0 ad2.apx.appier.net
@@ -16,9 +18,11 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.revjet.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 ad-specs.guoshipartners.com
+0.0.0.0 af.opera.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 ald.taobao.com
 0.0.0.0 amgs5.com
@@ -108,6 +112,7 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 cs.ns1p.net
+0.0.0.0 data.flurry.com
 0.0.0.0 dcs.ettoday.net
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 device-metrics-us.amazon.com
@@ -122,6 +127,7 @@
 0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 edgecast-vod.yahoo.net
 0.0.0.0 edge-mcdn-beacon.secure.yahoo.com
+0.0.0.0 elqtrk.intel.com
 0.0.0.0 err.taobao.com
 0.0.0.0 esd-secure.taboola.com.edgekey.net
 0.0.0.0 events-collector.spot.im
@@ -152,6 +158,7 @@
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 google-analytics.com
 0.0.0.0 googletagservices.com
+0.0.0.0 gov.aniview.com
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 gurgle.pcmag.com
@@ -213,11 +220,14 @@
 0.0.0.0 msg.ettoday.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 munchkin.marketo.net
+0.0.0.0 nebula-cdn.kampyle.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 notify.indianexpress.com
 0.0.0.0 nsis.bisrv.com
 0.0.0.0 nt.compass-fit.jp
+0.0.0.0 nvda.d2.sc.omtrdc.net
+0.0.0.0 onsite2.researchintel.com
 0.0.0.0 openx.net
 0.0.0.0 ovp.iris.tv
 0.0.0.0 p.adsymptotic.com
@@ -271,6 +281,7 @@
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 seg.ad.gt
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 sentry.io
 0.0.0.0 servedby.revive-adserver.net
@@ -281,11 +292,13 @@
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 socialcanvas-cdn.kargo.com
 0.0.0.0 sp.analytics.yahoo.com
+0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
 0.0.0.0 staging.pango-coupons.besttoolbars.net
+0.0.0.0 starget.intel.com
 0.0.0.0 stat.adguard.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adsafeprotected.com
@@ -380,6 +393,7 @@
 0.0.0.0 www.trc.taboola.com
 0.0.0.0 www.urc.taboolasyndication.com
 0.0.0.0 www.us-u.openx.net
+0.0.0.0 www91.intel.com
 0.0.0.0 xhr.invl.co
 0.0.0.0 ynuf.aliapp.org
 0.0.0.0 z.moatads.com
