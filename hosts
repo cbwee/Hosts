@@ -44,7 +44,6 @@
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bidder.criteo.com
-0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 buy.tinypass.com
 0.0.0.0 c.aaxads.com
@@ -112,6 +111,7 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 cs.ns1p.net
+0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 data.flurry.com
 0.0.0.0 dcs.ettoday.net
 0.0.0.0 delivery.adrecover.com
@@ -187,6 +187,7 @@
 0.0.0.0 installer.betterinstaller.com
 0.0.0.0 installer.filebulldog.com
 0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 js.driftt.com
 0.0.0.0 js.monitor.azure.com
@@ -210,6 +211,7 @@
 0.0.0.0 mb.moatads.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mehebborc.com
+0.0.0.0 merchandise.opera-api.com
 0.0.0.0 metric.gstatic.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 microsoftwindows.112.2o7.net
@@ -338,6 +340,7 @@
 0.0.0.0 tce.alicdn.com
 0.0.0.0 tcr.tynt.com
 0.0.0.0 telemetry.dailymotion.com
+0.0.0.0 tempest.services.disqus.com
 0.0.0.0 tenmax-static.cacafly.net
 0.0.0.0 tjs.sjs.sinajs.cn
 0.0.0.0 tmatch.simba.taobao.com
