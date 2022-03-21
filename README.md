@@ -1,3 +1,3 @@
-# CB Windows Hosts
+# CB Hosts
 
 A hosts file.
