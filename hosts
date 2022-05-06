@@ -13,6 +13,7 @@
 0.0.0.0 ad2.apx.appier.net
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 admsapi.businessweekly.com.tw
+0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.ndtv1.com
@@ -118,7 +119,6 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 cs.ns1p.net
-0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 data.flurry.com
 0.0.0.0 dcs.ettoday.net
 0.0.0.0 delivery.adrecover.com
@@ -252,6 +252,7 @@
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel-hk.pixelinteractivemedia.com
@@ -375,7 +376,6 @@
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 vidstat.taboola.com
-0.0.0.0 view.adjust.com
 0.0.0.0 view.adjust.com
 0.0.0.0 visitor.omnitagjs.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
