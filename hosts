@@ -10,7 +10,9 @@
 0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.setn.com
+0.0.0.0 ad1.ettoday.net
 0.0.0.0 ad2.apx.appier.net
+0.0.0.0 ad2.ettoday.net
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 admsapi.businessweekly.com.tw
 0.0.0.0 ads.adthrive.com
@@ -113,6 +115,7 @@
 0.0.0.0 consent.trustarc.com
 0.0.0.0 contextual.media.net
 0.0.0.0 convlatbmp.taboola.com
+0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 count.taobao.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashlogs.whatsapp.net
@@ -149,6 +152,7 @@
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 flashnetic.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 fourier.taobao.com
@@ -220,6 +224,7 @@
 0.0.0.0 match.adsrvr.org
 0.0.0.0 mb.moatads.com
 0.0.0.0 mc.yandex.ru
+0.0.0.0 mcs.snssdk.com
 0.0.0.0 mehebborc.com
 0.0.0.0 merchandise.opera-api.com
 0.0.0.0 metric.gstatic.com
@@ -267,6 +272,7 @@
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 pro.ip-api.com
 0.0.0.0 ps.eyeota.net
+0.0.0.0 pubdirecte.com
 0.0.0.0 pv.ltn.com.tw
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px.spiceworks.com
@@ -358,6 +364,8 @@
 0.0.0.0 tmatch.simba.taobao.com
 0.0.0.0 tpat.api.vungle.com
 0.0.0.0 track.mailerlite.com
+0.0.0.0 track.storm.mg
+0.0.0.0 track.unidata.ai
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trends.revcontent.com
