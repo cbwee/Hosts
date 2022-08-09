@@ -122,7 +122,9 @@
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 cre.mix.sina.com.cn
 0.0.0.0 cs.ns1p.net
+0.0.0.0 d.applovin.com
 0.0.0.0 data.flurry.com
+0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 dcs.ettoday.net
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 device-metrics-us.amazon.com
@@ -195,6 +197,7 @@
 0.0.0.0 img.scupio.com
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 in.treasuredata.com
+0.0.0.0 init.supersonicads.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 inrecsys.popin.cc
 0.0.0.0 installer.betterinstaller.com
@@ -216,6 +219,7 @@
 0.0.0.0 loader.wisepops.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.popin.cc
+0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 marketing.technologyadvice.com
@@ -234,9 +238,13 @@
 0.0.0.0 moatads.com
 0.0.0.0 mobile01-d.openx.net
 0.0.0.0 monetizemore-d.openx.net
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 ms4.applovin.com
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 nebula-cdn.kampyle.com
+0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 notify.indianexpress.com
@@ -246,6 +254,7 @@
 0.0.0.0 onsite2.researchintel.com
 0.0.0.0 openx.net
 0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 ovp.iris.tv
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 p.typekit.net
@@ -263,6 +272,7 @@
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 platform-api.sharethis.com
+0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 popup.taboola.com
 0.0.0.0 powerad.ai
 0.0.0.0 prebid.a-mo.net
@@ -271,6 +281,7 @@
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 pro.ip-api.com
+0.0.0.0 prod-ms.applovin.com
 0.0.0.0 ps.eyeota.net
 0.0.0.0 pubdirecte.com
 0.0.0.0 pv.ltn.com.tw
@@ -282,6 +293,7 @@
 0.0.0.0 rec.udn.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 rlog.popin.cc
+0.0.0.0 rt.applovin.com
 0.0.0.0 rtbcdn.andbeyond.media
 0.0.0.0 s.adroll.com
 0.0.0.0 s.go-mpulse.net
@@ -362,6 +374,7 @@
 0.0.0.0 tenmax-static.cacafly.net
 0.0.0.0 tjs.sjs.sinajs.cn
 0.0.0.0 tmatch.simba.taobao.com
+0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tpat.api.vungle.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.storm.mg
