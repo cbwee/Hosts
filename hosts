@@ -26,11 +26,14 @@
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 ad-specs.guoshipartners.com
+0.0.0.0 adv.sec.miui.com
 0.0.0.0 af.opera.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 ald.taobao.com
 0.0.0.0 amgs5.com
+0.0.0.0 an.yandex.ru
 0.0.0.0 analytics2.m2.ai
+0.0.0.0 android.bugly.qq.com
 0.0.0.0 anymind360.com
 0.0.0.0 ap.lijit.com
 0.0.0.0 api.popin.cc
@@ -205,8 +208,10 @@
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 jadserve.postrelease.com
+0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 js.driftt.com
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.monitor.azure.com
 0.0.0.0 js.rfp.fout.jp
 0.0.0.0 js-agent.newrelic.com
@@ -426,6 +431,7 @@
 0.0.0.0 www.images.taboola.com
 0.0.0.0 www.popup.taboola.com
 0.0.0.0 www.statcounter.com
+0.0.0.0 www.steepto.com
 0.0.0.0 www.taboola.com
 0.0.0.0 www.taboola.com.edgekey.net
 0.0.0.0 www.taboolasyndication.com
