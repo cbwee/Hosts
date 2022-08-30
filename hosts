@@ -13,7 +13,7 @@
 0.0.0.0 ad1.ettoday.net
 0.0.0.0 ad2.apx.appier.net
 0.0.0.0 ad2.ettoday.net
-0.0.0.0 ade.googlesyndication.com 
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 admsapi.businessweekly.com.tw
 0.0.0.0 ads.adthrive.com
@@ -270,6 +270,7 @@
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pbs.getpublica.com
 0.0.0.0 pebed.dm-event.net
+0.0.0.0 p-events.ivideosmart.com
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.condenastdigital.com
@@ -300,8 +301,10 @@
 0.0.0.0 rddywd.com
 0.0.0.0 rec.udn.com
 0.0.0.0 referrer.disqus.com
+0.0.0.0 resolver.gslb.mi-idc.com
 0.0.0.0 rlog.popin.cc
 0.0.0.0 rt.applovin.com
+0.0.0.0 rt.applvn.com
 0.0.0.0 rtbcdn.andbeyond.media
 0.0.0.0 s.adroll.com
 0.0.0.0 s.go-mpulse.net
@@ -388,6 +391,7 @@
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.storm.mg
 0.0.0.0 track.unidata.ai
+0.0.0.0 tracking.gvm.com.tw
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trends.revcontent.com
