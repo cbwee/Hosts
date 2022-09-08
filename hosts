@@ -57,6 +57,8 @@
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bcp.crwdcntrl.net
+0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 buy.tinypass.com
@@ -129,6 +131,7 @@
 0.0.0.0 cs.ns1p.net
 0.0.0.0 csi.gstatic.com
 0.0.0.0 d.applovin.com
+0.0.0.0 d.applvn.com	
 0.0.0.0 data.flurry.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 dcs.ettoday.net
@@ -195,6 +198,7 @@
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 ichnaea-web.netflix.com
 0.0.0.0 id.google.com
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 images.taboola.com
