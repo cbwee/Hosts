@@ -8,6 +8,7 @@
 0.0.0.0 a.zdbb.net
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 activation.gfe.nvidia.com
+0.0.0.0 ad.a-ads.com
 0.0.0.0 ad.ettoday.net
 0.0.0.0 ad.setn.com
 0.0.0.0 ad1.ettoday.net
@@ -38,6 +39,7 @@
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 anymind360.com
 0.0.0.0 ap.lijit.com
+0.0.0.0 api.demandbase.com
 0.0.0.0 api.popin.cc
 0.0.0.0 api.snapkit.com
 0.0.0.0 api.taboola.com
@@ -231,6 +233,7 @@
 0.0.0.0 loader.wisepops.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.popin.cc
+0.0.0.0 logs.amap.com
 0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lptag.liveperson.net
@@ -250,6 +253,7 @@
 0.0.0.0 moatads.com
 0.0.0.0 mobile01-d.openx.net
 0.0.0.0 monetizemore-d.openx.net
+0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms4.applovin.com
@@ -326,13 +330,8 @@
 0.0.0.0 scripts.mediavine.com
 0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 tracking.intl.miui.com
-0.0.0.0 logs.amap.com
-0.0.0.0 secure.flashtalking.com
-0.0.0.0 ad.a-ads.com
-0.0.0.0 mon-va.byteoversea.com
-0.0.0.0 api.demandbase.com
 0.0.0.0 secure.adnxs.com
+0.0.0.0 secure.flashtalking.com
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 securepubads.g.doubleclick.net
@@ -403,6 +402,7 @@
 0.0.0.0 track.storm.mg
 0.0.0.0 track.unidata.ai
 0.0.0.0 tracking.gvm.com.tw
+0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trends.revcontent.com
