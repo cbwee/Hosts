@@ -69,6 +69,7 @@
 0.0.0.0 c-api-bit.shopeemobile.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.adt567.net
 0.0.0.0 cdn.appround.biz
 0.0.0.0 cdn.aralego.net
 0.0.0.0 cdn.concert.io
@@ -85,6 +86,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn.optmn.cloud
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.qgraph.io
@@ -103,20 +105,25 @@
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 cfg.flurry.com
+0.0.0.0 champagne.futurecdn.net
 0.0.0.0 chat.amplify.ai
+0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clc.stackoverflow.com
+0.0.0.0 click.udimg.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cm.mgid.com
 0.0.0.0 cmp.uniconsent.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 concertads-configs.vox-cdn.com
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.trustarc.com
 0.0.0.0 contextual.media.net
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 count.taobao.com
+0.0.0.0 counter.yadro.ru
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -137,12 +144,15 @@
 0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dualstack-logs.amap.com
+0.0.0.0 e.serverbid.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 edge.quantserve.com
 0.0.0.0 edgecast-vod.yahoo.net
 0.0.0.0 edge-mcdn-beacon.secure.yahoo.com
 0.0.0.0 elqtrk.intel.com
 0.0.0.0 err.taobao.com
+0.0.0.0 eus.rubiconproject.com
 0.0.0.0 events.api.vungle.com
 0.0.0.0 events-collector.spot.im
 0.0.0.0 experience.tinypass.com
@@ -227,6 +237,7 @@
 0.0.0.0 marketing.technologyadvice.com
 0.0.0.0 marketing2.technologyadvice.com
 0.0.0.0 marketingplatform.google.com
+0.0.0.0 mas.protecmedia.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 mb.moatads.com
 0.0.0.0 mc.yandex.ru
@@ -286,6 +297,7 @@
 0.0.0.0 pro.ip-api.com
 0.0.0.0 prod-ms.applovin.com
 0.0.0.0 ps.eyeota.net
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubdirecte.com
 0.0.0.0 pv.ltn.com.tw
 0.0.0.0 px.ads.linkedin.com
@@ -327,6 +339,7 @@
 0.0.0.0 servedby.revive-adserver.net
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 services.vlitag.com
+0.0.0.0 sg.mmstat.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snap.snapmobile.asia
@@ -337,6 +350,7 @@
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-cdn.static.browser.mi-img.com
+0.0.0.0 ssm.codes
 0.0.0.0 staging.pango-coupons.besttoolbars.net
 0.0.0.0 starget.intel.com
 0.0.0.0 stat.adguard.com
@@ -401,6 +415,7 @@
 0.0.0.0 video.adaptv.advertising.com
 0.0.0.0 view.adjust.com
 0.0.0.0 visitor.omnitagjs.com
+0.0.0.0 w.sharethis.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.msn.com
