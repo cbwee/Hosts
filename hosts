@@ -25,6 +25,7 @@
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads-cloud.rovio.com
 0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 adservex.media.net
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 af.opera.com
@@ -93,6 +94,7 @@
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.siteswithcontent.com
 0.0.0.0 cdn.snigelweb.com
+0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.wishpond.net
 0.0.0.0 cdn.ywxi.net
 0.0.0.0 cdn.zopim.com
@@ -277,6 +279,7 @@
 0.0.0.0 pbs.getpublica.com
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 p-events.ivideosmart.com
+0.0.0.0 ping.chartbeat.net
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.condenastdigital.com
@@ -289,6 +292,7 @@
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 pm-gateway.supersonicads.com
 0.0.0.0 powerad.ai
+0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 prebid.scupio.com
 0.0.0.0 prebid-analytics.c.appier.net
