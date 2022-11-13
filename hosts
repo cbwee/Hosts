@@ -165,6 +165,7 @@
 0.0.0.0 feed.engage.im
 0.0.0.0 ff.doubleclick.net
 0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 flashnetic.com
@@ -343,11 +344,14 @@
 0.0.0.0 servedby.revive-adserver.net
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 services.vlitag.com
+0.0.0.0 settings.crashlytics.com
 0.0.0.0 sg.mmstat.com
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 snap.licdn.com
 0.0.0.0 snap.snapmobile.asia
 0.0.0.0 socialcanvas-cdn.kargo.com
+0.0.0.0 s-odx.oleads.com
+0.0.0.0 s-odx.osite99.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spn-v1.revampcdn.com
 0.0.0.0 srtb.msn.com
